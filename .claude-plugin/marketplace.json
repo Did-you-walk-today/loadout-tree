@@ -1,0 +1,5 @@
+{
+  "name": "loadout-tree",
+  "owner": { "name": "Did-you-walk-today" },
+  "plugins": [{ "name": "loadout", "source": "./" }]
+}

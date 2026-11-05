@@ -1,0 +1,6 @@
+{
+  "name": "loadout",
+  "version": "0.1.0",
+  "description": "See installed skills, plugins and MCP servers as a described tree, and turn them off by goal to save tokens",
+  "types": "./types/index.d.ts"
+}
